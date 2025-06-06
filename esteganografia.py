@@ -1,6 +1,4 @@
-
 from PIL import Image
-
 
 def gerar_dados(texto):
     """Converte o texto de entrada em uma lista de strings binárias de 8 bits."""
